@@ -1,10 +1,10 @@
 /* Your code here */
 <style>
   .wgs {
+    display: inline-block;
     height: 482px;
     position:relative;
     width: 640px;
-    display: inline-block;
   }
 
   .wgs__mole-head {
