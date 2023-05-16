@@ -31,7 +31,9 @@
     margin-top:241px;
   }
 
-
+  .wgs__mole-head--whacked {
+    background-color: #0000FF;
+  }
 
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
 .sb {
